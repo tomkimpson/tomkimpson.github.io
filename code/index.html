@@ -3,7 +3,7 @@
 <head>
   <link href="https://gmpg.org/xfn/11" rel="profile">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta name="generator" content="Hugo 0.74.3" />
+  <meta name="generator" content="Hugo 0.104.3" />
 
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -44,14 +44,14 @@
     <div class="sidebar-about">
       <a href="https://tomkimpson.github.io/"><h1>Tom Kimpson</h1></a>
       <p class="lead">
-       Postdoctoral Researcher in Computational Physics @ Oxford 
+       Research Fellow in Astrophysics @ UniMelb/OzGrav 
       </p>
     </div>
 
     <nav>
       <ul class="sidebar-nav">
         <li><a href="https://tomkimpson.github.io/">Home</a> </li>
-        <li><a href="/publications/"> Research </a></li><li><a href="/code/"> Code </a></li>
+        <li><a href="/publications/"> Research </a></li><li><a href="/code/"> Code </a></li><li><a href="/news/"> News </a></li>
       </ul>
     </nav>
 
@@ -79,7 +79,7 @@
 
 
 
-    <p>&copy; 2021. All rights reserved. </p>
+    <p>&copy; 2022. All rights reserved. </p>
   </div>
 </aside>
 
@@ -90,112 +90,32 @@
         </header>
         
         <p>Throughout my research I have written a number of scientific codes, typically relating to time-frequency modelling and signal analysis of non-linear, dynamical astrophysical systems. In order to enable <a href="http://reproducibleresearch.net">reproducible research</a> I am attempting to make all codes associated with published papers publicly available with documentation. This endeavour is currently a work in progress! Please see <a href="https://github.com/tomkimpson">github</a> for a list of all public repositories.</p>
+<ul>
+<li>
+<p><a href="https://github.com/tomkimpson/ML4L">ML4L</a>. Machine learning for land surface modeling.</p>
+</li>
+<li>
+<p><a href="https://github.com/tomkimpson/Iliad">Iliad</a>. What is the timing signal from a pulsar in a strong-field relativistic environment?</p>
+</li>
+<li>
+<p><a href="https://github.com/tomkimpson/Orbital-Dynamics">Orbital Dynamics</a>. Numerical modelling of spinning objects in a curved spacetime via MPD formalism.</p>
+</li>
+<li>
+<p><a href="https://github.com/tomkimpson/QuadrupoleSpinCurvatureDynamics">Quadrupole Orbital Dynamics</a>. More spin-curvature dynamics, but this time for a metric with a arbitrary mass quadrupole.</p>
+</li>
+<li>
+<p><a href="https://github.com/tomkimpson/RayTracing">RayTracing</a>. In a Kerr spacetime</p>
+</li>
+<li>
+<p><a href="https://github.com/tomkimpson/GW_Bursts">GW_bursts</a>. Numerical kludge gravitational waveforms and SNRs for pulsar in extreme mass ratio systems.</p>
+</li>
+</ul>
 <hr>
 
     </article>
 
 
-    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-      
-      <tr>
-      <td style="padding:2.5%;width:35%;vertical-align:middle;min-width:120px;min-height:500px">
-        <img src="images/spaghetti.pdf" alt="project image" style="width:auto; height:auto; max-width:100%;" />
-      </td>
-      <td style="padding:2.5%;width:65%;vertical-align:top">
-      <h4>Ray Tracing in Kerr spacetime</h4>
-
-      What is the path of light through a curved spacetime? This Fortran code will tell you! Includes gravitational lensing, gravitational and relativistic time dilation, chromatic effects (dispersion in time/space) , blackbox optimisation methods for constructing a consistent time-frequency signal.  <br>
-
-      
-      <a href="https://github.com/tomkimpson/RayTracing"><i class='fa fa-github'></i></a>
-
-
-      
-    </td>
-
-      </tr>
-
-    </table><table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-      
-      <tr>
-      <td style="padding:2.5%;width:35%;vertical-align:middle;min-width:120px;min-height:500px">
-        <img src="images/orbitaldynamics3d.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
-      </td>
-      <td style="padding:2.5%;width:65%;vertical-align:top">
-      <h4>Spin Curvature Orbital Dynamics</h4>
-
-       This code calculates the orbital motion of an astrophysical body, such as a pulsar, on a background Kerr spacetime. Going beyond the point particle approximation, we instead model an extended spinning body via the Mathisson-Papertrou-Dixon equations, accouting for spin-spin, spin-orbit and spin-curvature couplings. <br>
-
-      
-      <a href="https://github.com/tomkimpson/Orbital-Dynamics"><i class='fa fa-github'></i></a>
-
-
-      
-    </td>
-
-      </tr>
-
-    </table><table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-      
-      <tr>
-      <td style="padding:2.5%;width:35%;vertical-align:middle;min-width:120px;min-height:500px">
-        <img src="images/grav_lensing.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
-      </td>
-      <td style="padding:2.5%;width:65%;vertical-align:top">
-      <h4>Iliad - General Relativistic Pulsar Timing</h4>
-
-       This code can be used to model the time-frequency signal from a pulsar orbiting a massive black hole (BH), accounting for all relativistic and astrophysical effects. It combines some of the methods used in the Ray Tracing and Orbital Dynamics repos. <br>
-
-      
-      <a href="https://github.com/tomkimpson/Iliad"><i class='fa fa-github'></i></a>
-
-
-      
-    </td>
-
-      </tr>
-
-    </table><table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-      
-      <tr>
-      <td style="padding:2.5%;width:35%;vertical-align:middle;min-width:120px;min-height:500px">
-        <img src="images/orbitaldynamics2d.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
-      </td>
-      <td style="padding:2.5%;width:65%;vertical-align:top">
-      <h4>Spin Curvature Orbital Dynamics</h4>
-
-       More spin-curvature dynamics, but this time for a metric with a arbitrary mass quadrupole. <br>
-
-      
-      <a href="https://github.com/tomkimpson/QuadrupoleSpinCurvatureDynamics"><i class='fa fa-github'></i></a>
-
-
-      
-    </td>
-
-      </tr>
-
-    </table><table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-      
-      <tr>
-      <td style="padding:2.5%;width:35%;vertical-align:middle;min-width:120px;min-height:500px">
-        <img src="images/SignalAndWindow.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
-      </td>
-      <td style="padding:2.5%;width:65%;vertical-align:top">
-      <h4>Gravitational Burst Waveforms</h4>
-
-       Gravitational waveforms and SNRs for pulsar in extreme mass ratio system. We use a numerical kludge method where the relativistic spin-orbital dynamics are specified by the Mathsisson Papetrou Dixon formulation (see the orbital dynamics repos). <br>
-
-      
-      <a href="https://github.com/tomkimpson/GW_Bursts"><i class='fa fa-github'></i></a>
-
-
-      
-    </td>
-
-      </tr>
-
-    </table>
+    
     </main>
 
     
