@@ -15,7 +15,7 @@ googleAnalytics = ""  # add your tracking id
     text = "Developed using Hugo-researcher"
     url = "https://github.com/ojroques/hugo-researcher"
   [params.style]  # appearance options (can be omitted)
-    fontFamily = "Inconsolata" #avenir
+    fontFamily = "avenir" #avenir
     fontSize = "14pt"
     pageWidth = "750px"
     avatarSize = "200px"
