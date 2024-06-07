@@ -18,9 +18,13 @@ draft : True
 
 ### Essays I like 
 
+Soem of these ar eblog posts, some of these are short papers. Only two criteria is that the y must be i) interesting and ii) readable
+
 [Paul Graham - How to do great work](https://paulgraham.com/greatwork.html)
 
 [Paul Graham - How to work hard](https://paulgraham.com/hwh.html)
+
+[Sam Altman - Productivity](https://blog.samaltman.com/productivity)
 
 
 

@@ -6,11 +6,13 @@ title = "research"
 
 ## Research
 
-A list of peer-reviewed publications (12 total, 9 first author) can be found on [arXiv](https://arxiv.org/search/?query=kimpson&searchtype=all&source=header) or [ADS](https://ui.adsabs.harvard.edu/search/q=kimpson&sort=date%20desc%2C%20bibcode%20desc&p_=0) 
+A list of peer-reviewed publications (13 total, 9 first author) can be found on [arXiv](https://arxiv.org/search/?query=kimpson&searchtype=all&source=header) or [ADS](https://ui.adsabs.harvard.edu/search/q=kimpson&sort=date%20desc%2C%20bibcode%20desc&p_=0) 
 
 ---
 
 I also maintain a list below. In reverse-chronological order:
+
+13. J. O'Leary, A. Melatos, **T. Kimpson**, N. J. O'Neill, P. M. Meyers, D. M. Christodoulou, S. Bhattacharya, S. G. T. Laycock : *"Measuring the magnetic dipole moment and magnetospheric fluctuations of accretion-powered pulsars in the Small Magellanic Cloud with an unscented Kalman filter"*. ApJ 2024, [doi: 10.48550/arXiv.2406.01827](https://ui.adsabs.harvard.edu/abs/2024arXiv240601827O/abstract)
 
 12. T. Crossland, P. Stenetorp, D. Kawata, S. Riedel, T. D. Kitching, A. Deshpande, **T. Kimpson**, C. Liew-Cain, C. Pedersen, D. Piras, M. Sharma : *"Toward Machine-learning-based Metastudies: Applications to Cosmological Parameters"*. ApJS, 2023, [doi: 10.3847/1538-4365/acf76a](https://iopscience.iop.org/article/10.3847/1538-4365/acf76a)
 
