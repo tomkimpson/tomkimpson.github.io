@@ -6,11 +6,14 @@ title = "research"
 
 ## Research
 
-A list of peer-reviewed publications (14 total, 9 first author) can be found on [arXiv](https://arxiv.org/search/?query=kimpson&searchtype=all&source=header), [ADS](https://ui.adsabs.harvard.edu/search/q=kimpson&sort=date%20desc%2C%20bibcode%20desc&p_=0), or [Google Scholar](https://scholar.google.com.au/citations?user=ozhoSBcAAAAJ&hl=en)
+A list of peer-reviewed publications (15 total, 10 first author) can be found on [arXiv](https://arxiv.org/search/?query=kimpson&searchtype=all&source=header), [ADS](https://ui.adsabs.harvard.edu/search/q=kimpson&sort=date%20desc%2C%20bibcode%20desc&p_=0), or [Google Scholar](https://scholar.google.com.au/citations?user=ozhoSBcAAAAJ&hl=en).
+
+I also maintain a list below.
 
 ---
 
-I also maintain a list below. In reverse-chronological order:
+
+15. **T. Kimpson**, A. Melatos, J. O'Leary, J.Carlin, R.J. Evans, W. Moran, T. Cheunchitra, W. Dong, L. Dunn, 	J. Greentree, N. J. O'Neill, S. Suvorova, K.H. Thong and A. Vargas : "Kalman tracking and parameter estimation of continuous gravitational waves with a pulsar timing array". Accepted for publication in MNRAS 2024, [arXiv:2409.14613](https://arxiv.org/abs/2409.14613)
 
 14. M. Klöwer, M. Gelbrecht, D. Hotta, J. Willmert, S. Silvestri, G.L. Wagner, A. White, S. Hatfield, **T. Kimpson**, N.C. Constantinou, and C. Hill : *"SpeedyWeather.jl: Reinventing atmospheric general circulation models towards interactivity and extensibility"*. JOSS 2024, [doi: 10.21105/joss.06323](https://doi.org/10.21105/joss.06323)
 
