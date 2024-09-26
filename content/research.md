@@ -13,7 +13,7 @@ I also maintain a list below.
 ---
 
 
-15. **T. Kimpson**, A. Melatos, J. O'Leary, J.Carlin, R.J. Evans, W. Moran, T. Cheunchitra, W. Dong, L. Dunn, 	J. Greentree, N. J. O'Neill, S. Suvorova, K.H. Thong and A. Vargas : "Kalman tracking and parameter estimation of continuous gravitational waves with a pulsar timing array". Accepted for publication in MNRAS 2024, [arXiv:2409.14613](https://arxiv.org/abs/2409.14613)
+15. **T. Kimpson**, A. Melatos, J. O'Leary, J.Carlin, R.J. Evans, W. Moran, T. Cheunchitra, W. Dong, L. Dunn, 	J. Greentree, N. J. O'Neill, S. Suvorova, K.H. Thong and A. Vargas : "Kalman tracking and parameter estimation of continuous gravitational waves with a pulsar timing array". MNRAS 2024, [doi: 10.1093/mnras/stae2197](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stae2197/7774403)
 
 14. M. Klöwer, M. Gelbrecht, D. Hotta, J. Willmert, S. Silvestri, G.L. Wagner, A. White, S. Hatfield, **T. Kimpson**, N.C. Constantinou, and C. Hill : *"SpeedyWeather.jl: Reinventing atmospheric general circulation models towards interactivity and extensibility"*. JOSS 2024, [doi: 10.21105/joss.06323](https://doi.org/10.21105/joss.06323)
 
