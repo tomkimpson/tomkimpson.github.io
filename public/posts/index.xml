@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>asbout on Tom Kimpson</title><link>https://tomkimpson.github.io/posts/</link><description>Recent content in asbout on Tom Kimpson</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://tomkimpson.github.io/posts/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>asbout on Tom Kimpson</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in asbout on Tom Kimpson</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Apr 2020 02:01:58 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>demo</title>
+      <link>http://localhost:1313/posts/post-1/</link>
+      <pubDate>Wed, 01 Apr 2020 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/post-1/</guid>
+      <description>&lt;h3 id=&#34;useful-links&#34;&gt;Useful links&lt;/h3&gt;&#xA;&lt;h3 id=&#34;notes&#34;&gt;Notes&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;Whelan_notes.pdf&#34;&gt;John T. Whelan - Lectures on Gravitational Wave Data Analysis&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;essays-i-like&#34;&gt;Essays I like&lt;/h3&gt;&#xA;&lt;p&gt;Soem of these ar eblog posts, some of these are short papers. Only two criteria is that the y must be i) interesting and ii) readable&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://paulgraham.com/greatwork.html&#34;&gt;Paul Graham - How to do great work&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://paulgraham.com/hwh.html&#34;&gt;Paul Graham - How to work hard&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://blog.samaltman.com/productivity&#34;&gt;Sam Altman - Productivity&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;$$1+2=3$$&lt;/p&gt;&#xA;&lt;p&gt;Inline math: $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$&lt;/p&gt;&#xA;&lt;p&gt;Block math:&#xA;$$&#xA;\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }&#xA;$$&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

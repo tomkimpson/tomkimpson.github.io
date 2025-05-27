@@ -1,7 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>TK on Tom Kimpson</title><link>https://tomkimpson.github.io/</link><description>Recent content in TK on Tom Kimpson</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://tomkimpson.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>contact</title><link>https://tomkimpson.github.io/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tomkimpson.github.io/contact/</guid><description>Contact Email: tom.kimpson@unimelb.edu.au Office 302
-School of Physics
-University of Melbourne
-Parkville VIC 3010
-Australia</description></item><item><title>research</title><link>https://tomkimpson.github.io/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tomkimpson.github.io/research/</guid><description>Research A list of peer-reviewed publications (15 total, 10 first author) can be found on arXiv, ADS, or Google Scholar.
-I also maintain a list below.
-T. Kimpson, A. Melatos, J. O&amp;rsquo;Leary, J.Carlin, R.J. Evans, W. Moran, T. Cheunchitra, W. Dong, L. Dunn, J. Greentree, N. J. O&amp;rsquo;Neill, S. Suvorova, K.H. Thong and A. Vargas : &amp;ldquo;Kalman tracking and parameter estimation of continuous gravitational waves with a pulsar timing array&amp;rdquo;.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TK on Tom Kimpson</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in TK on Tom Kimpson</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Apr 2020 02:01:58 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>demo</title>
+      <link>http://localhost:1313/posts/post-1/</link>
+      <pubDate>Wed, 01 Apr 2020 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/post-1/</guid>
+      <description>&lt;h3 id=&#34;useful-links&#34;&gt;Useful links&lt;/h3&gt;&#xA;&lt;h3 id=&#34;notes&#34;&gt;Notes&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;Whelan_notes.pdf&#34;&gt;John T. Whelan - Lectures on Gravitational Wave Data Analysis&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;essays-i-like&#34;&gt;Essays I like&lt;/h3&gt;&#xA;&lt;p&gt;Soem of these ar eblog posts, some of these are short papers. Only two criteria is that the y must be i) interesting and ii) readable&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://paulgraham.com/greatwork.html&#34;&gt;Paul Graham - How to do great work&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://paulgraham.com/hwh.html&#34;&gt;Paul Graham - How to work hard&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://blog.samaltman.com/productivity&#34;&gt;Sam Altman - Productivity&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;$$1+2=3$$&lt;/p&gt;&#xA;&lt;p&gt;Inline math: $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$&lt;/p&gt;&#xA;&lt;p&gt;Block math:&#xA;$$&#xA;\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }&#xA;$$&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;&#xA;&lt;p&gt;I am currently a research fellow at the &lt;a href=&#34;https://physics.unimelb.edu.au/&#34;&gt;University of Melbourne&lt;/a&gt; within the &lt;a href=&#34;https://ms.unimelb.edu.au&#34;&gt;Mathematics and Statistics department&lt;/a&gt; and &lt;a href=&#34;https://macsys.org&#34;&gt;MACSYS&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Prior to that I was a research fellow in gravitational wave astrophysics within the &lt;a href=&#34;https://physics.unimelb.edu.au&#34;&gt;Physics department&lt;/a&gt; as part of &lt;a href=&#34;https://www.ozgrav.org&#34;&gt;OzGrav&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Prior to &lt;em&gt;that&lt;/em&gt; I was a postdoc at the &lt;a href=&#34;https://www.physics.ox.ac.uk/research/group/predictability-weather-and-climate&#34;&gt;University of Oxford&lt;/a&gt; where I researched reduced precision arithmetic and machine learning techniques applied to &lt;a href=&#34;https://www.pnas.org/doi/10.1073/pnas.1906691116&#34;&gt;climate simulations&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I got my PhD in theoretical astrophysics from &lt;a href=&#34;https://www.ucl.ac.uk/&#34;&gt;University College London&lt;/a&gt;, within the &lt;a href=&#34;https://www.ucl.ac.uk/mssl/&#34;&gt;Mullard Space Science Laboratory&lt;/a&gt;. During this period I also spent time at the &lt;a href=&#34;https://perimeterinstitute.ca/&#34;&gt;Perimeter Institute for Theoretical Physics&lt;/a&gt; as Visiting Graduate Fellow. My PhD was awarded the &lt;a href=&#34;https://www.ucl.ac.uk/mssl/department/space-climate-physics-awards&#34;&gt;Alan Johnstone Award for Outstanding Scientific Achievement&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
