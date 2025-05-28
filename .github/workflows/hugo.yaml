@@ -14,7 +14,7 @@
     deploy:
       runs-on: ubuntu-22.04
       steps:
-        - uses: actions/checkout@v2
+        - uses: actions/checkout@v4  # Updated to latest version
           with:
             submodules: true # Fetch Hugo themes (true OR recursive)
             fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
@@ -22,7 +22,7 @@
         - name: Setup Hugo
           uses: peaceiris/actions-hugo@v2
           with:
-            hugo-version: "0.99.1"
+            hugo-version: "latest"  # Use latest Hugo version
             extended: true
   
         - name: Build
