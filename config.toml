@@ -7,8 +7,8 @@ math = true          # enable KaTeX (https://katex.org/) globally
 googleAnalytics = ""  # add your tracking id
 
 [params]
-  author = "Olivier Roques"
-  description = "A simple monospaced resume theme for Hugo."
+  author = "Tom Kimpson"
+  description = "Research Fellow at the University of Melbourne, developing mathematical and computational methods for stochastic dynamical systems."
   favicon = "/favicon.png"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
@@ -31,7 +31,7 @@ googleAnalytics = ""  # add your tracking id
     url = "mailto:tom.kimpson@unimelb.edu.au"
   [[params.socialIcons]]
     icon = "fab fa-github"
-    title = "Scholar"
+    title = "GitHub"
     url = "https://github.com/tomkimpson"
 
 [permalinks]
@@ -45,3 +45,6 @@ googleAnalytics = ""  # add your tracking id
 
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files
+
+[minify.tdewolff.html]
+  keepWhitespace = true  # the deploy runs hugo --minify; without this the footer icons lose their spacing
